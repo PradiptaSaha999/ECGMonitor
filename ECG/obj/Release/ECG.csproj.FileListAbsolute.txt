@@ -1,0 +1,14 @@
+F:\c#\Graph\ECG\ECG\bin\Release\ECG.exe.config
+F:\c#\Graph\ECG\ECG\bin\Release\ECG.exe
+F:\c#\Graph\ECG\ECG\bin\Release\ECG.pdb
+F:\c#\Graph\ECG\ECG\obj\Release\ECG.Form1.resources
+F:\c#\Graph\ECG\ECG\obj\Release\ECG.Properties.Resources.resources
+F:\c#\Graph\ECG\ECG\obj\Release\ECG.usbConfig.resources
+F:\c#\Graph\ECG\ECG\obj\Release\ECG.csproj.GenerateResource.Cache
+F:\c#\Graph\ECG\ECG\obj\Release\ECG.exe
+F:\c#\Graph\ECG\ECG\obj\Release\ECG.pdb
+F:\c#\Graph\ECG\ECG\bin\Release\ECG.exe.manifest
+F:\c#\Graph\ECG\ECG\bin\Release\ECG.application
+F:\c#\Graph\ECG\ECG\obj\Release\ECG.csprojResolveAssemblyReference.cache
+F:\c#\Graph\ECG\ECG\obj\Release\ECG.exe.manifest
+F:\c#\Graph\ECG\ECG\obj\Release\ECG.application
